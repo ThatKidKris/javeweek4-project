@@ -188,7 +188,7 @@ public class week4Project {
           return hasValidId && age > 21;
         }
    
-  
+  // I made a method that takes both values of hasValidId and age and returns then if age is over 21 and if hadValidId is true
   
     
 
